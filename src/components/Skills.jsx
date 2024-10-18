@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const Skills = () => {
   const upperMarquee = [
-    "/logos/html.svg",
+    "/html.svg",
     "/logos/css.svg",
     "/logos/javascript.svg",
     "/logos/xml.svg",
