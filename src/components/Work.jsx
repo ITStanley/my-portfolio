@@ -11,9 +11,9 @@ const Work = () => {
   });
 
   return (
-    <div className="text-white max-w-[1200px] mx-auto flex flex-col justify-start h-[50vh] py-6 text-center md:mt-30 md:py-0" id="work">
+    <div className="text-white max-w-[1200px] mt-10 mx-auto py-6 text-center md:mt-30 md:py-0" id="work">
       
-      <h2 className="pt-20 mb-5 text-4xl font-bold primary-color" data-aos="flip-left">Work</h2>
+      <h2 className="mb-5 text-4xl font-bold pt-28 primary-color" data-aos="flip-left">Work</h2>
       <p className="mb-10 text-base text-gray-400 lg:text-xl">Check out some of my recent work</p>
       
 

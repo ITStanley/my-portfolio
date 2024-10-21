@@ -7,7 +7,7 @@ import xmlLogo from '../assets/logos/xml.svg';
 import javaLogo from '../assets/logos/java.svg';
 import cLogo from '../assets/logos/c.svg';
 import pythonLogo from '../assets/logos/python.svg';
-// import sqlLogo from "../assets/logos/sql.svg";
+// import sqlLogo from '../assets/logos/sql.svg';
 import bootstrapLogo from '../assets/logos/bootstrap.svg';
 import tailwindcssLogo from '../assets/logos/tailwindcss.svg';
 import reactLogo from '../assets/logos/react.svg';
@@ -28,7 +28,7 @@ const Skills = () => {
   ];
 
   return (
-    <div className="text-white max-w-[1200px] mx-auto mt-8 flex flex-col justify-start h-[50vh] py-6 text-center md:mt-30 md:py-0" id="about">
+    <div className="text-white max-w-[1200px] mx-auto mt-10 flex flex-col justify-start h-[50vh] py-6 text-center md:mt-30 md:py-0" id="about">
       
       <h2 className="mb-10 text-4xl font-bold primary-color" data-aos="flip-left">Skills</h2>
 
