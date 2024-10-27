@@ -97,7 +97,7 @@ const Hero = () => {
           </a>
 
           <a className="flex items-center justify-center h-[46px] rounded-full p-[2px] bg-gradient-to-b to-purple-600 from-blue-600 "
-            href="https://drive.google.com/file/d/1qGUWJSHRyL-U3Forfi2lxZ0MaQJAbj50/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1qGUWJSHRyL-U3Forfi2lxZ0MaQJAbj50/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
